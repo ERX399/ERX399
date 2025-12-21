@@ -12,13 +12,14 @@
 </div> -->
 
 <!-- Streak Stats -->
-<div align="center">
+
+<!-- <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=baicaizhale&locale=en&mode=daily&theme=aura&hide_border=true&border_radius=5" />
     <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=baicaizhale&locale=en&mode=daily&theme=catppuccin_latte&hide_border=true&border_radius=5" />
     <img alt="github-streak-stats" src="https://streak-stats.demolab.com/?user=baicaizhale&locale=en&mode=daily&theme=catppuccin_latte&hide_border=true&border_radius=5" width="50%" />
   </picture>
-</div>
+</div> -->
 
 <!-- Snake -->
 <div align="center">
