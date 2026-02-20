@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm baicaizhale</h1>
 <h3 align="center">👨‍💻 Code, coffee, repeat</h3>
 
+<p align="center">
+  <a href="https://afdian.com/a/baicaizhale">
+    <img src="https://img.shields.io/badge/Sponsor-爱发电-00A0E9.svg?style=flat-square&logo=alipay&logoColor=white" alt="Afdian">
+  </a>
+</p>
 
 <!-- Stats -->
 <!-- <div align="center">
