@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://399520.xyz/a399">
-    <img src="https://static.afdiancdn.com/static/img/logo/logo.png" alt="爱发电" width="32">
+    👉<img src="https://static.afdiancdn.com/static/img/logo/logo.png" alt="爱发电" width="32">给我发电
   </a>
 </p>
 
