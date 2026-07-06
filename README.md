@@ -1,36 +1,36 @@
-<h1 align="center">Hi 👋, I'm baicaizhale</h1>
+<h1 align="center">Hi 👋, I'm ERX399</h1>
 <h3 align="center">👨‍💻 Code, coffee, repeat</h3>
 
 <p align="center">
-  <a href="https://afdian.com/a/baicaizhale">
-    <img src="https://img.shields.io/badge/Sponsor-爱发电-00A0E9.svg?style=flat-square&logo=alipay&logoColor=white" alt="Afdian">
+  <a href="https://399520.xyz/a399">
+    <img src="https://static.afdiancdn.com/static/img/logo/logo.png" alt="爱发电" width="32">
   </a>
 </p>
 
 <!-- Stats -->
 <!-- <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=baicaizhale&hide_title=false&hide_rank=true&show_icons=true&theme=aura&include_all_commits=true&count_private=true&disable_animations=false&locale=en&hide_border=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=baicaizhale&hide_title=false&hide_rank=true&show_icons=true&theme=catppuccin_latte&include_all_commits=true&count_private=true&disable_animations=false&locale=en&hide_border=true" />
-    <img alt="github-stats" src="https://github-readme-stats.vercel.app/api?username=baicaizhale&hide_title=false&hide_rank=true&show_icons=true&theme=catppuccin_latte&include_all_commits=true&count_private=true&disable_animations=false&locale=en&hide_border=true" width="35%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ERX399&hide_title=false&hide_rank=true&show_icons=true&theme=aura&include_all_commits=true&count_private=true&disable_animations=false&locale=en&hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=ERX399&hide_title=false&hide_rank=true&show_icons=true&theme=catppuccin_latte&include_all_commits=true&count_private=true&disable_animations=false&locale=en&hide_border=true" />
+    <img alt="github-stats" src="https://github-readme-stats.vercel.app/api?username=ERX399&hide_title=false&hide_rank=true&show_icons=true&theme=catppuccin_latte&include_all_commits=true&count_private=true&disable_animations=false&locale=en&hide_border=true" width="35%" />
   </picture>
 </div> -->
 
 <!-- Streak Stats -->
 
-<!-- <div align="center">
+<div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=baicaizhale&locale=en&mode=daily&theme=aura&hide_border=true&border_radius=5" />
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=baicaizhale&locale=en&mode=daily&theme=catppuccin_latte&hide_border=true&border_radius=5" />
-    <img alt="github-streak-stats" src="https://streak-stats.demolab.com/?user=baicaizhale&locale=en&mode=daily&theme=catppuccin_latte&hide_border=true&border_radius=5" width="50%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=ERX399&locale=en&mode=daily&theme=aura&hide_border=true&border_radius=5" />
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=ERX399&locale=en&mode=daily&theme=catppuccin_latte&hide_border=true&border_radius=5" />
+    <img alt="github-streak-stats" src="https://streak-stats.demolab.com/?user=ERX399&locale=en&mode=daily&theme=catppuccin_latte&hide_border=true&border_radius=5" width="50%" />
   </picture>
-</div> -->
+</div>
 
 <!-- Snake -->
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/baicaizhale/baicaizhale/blob/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/baicaizhale/baicaizhale/blob/output/github-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ERX399/ERX399/blob/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/ERX399/ERX399/blob/output/github-snake.svg" />
     <img alt="github-snake" src="github-snake.svg" width="95%" />
   </picture>
 </div>
