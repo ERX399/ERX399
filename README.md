@@ -2,9 +2,9 @@
 <h3 align="center">👨‍💻 写代码，喝咖啡，再写代码</h3>
 
 <p align="center">
-  <a href="https://399520.xyz/a399">
-    👉<img src="https://static.afdiancdn.com/static/img/logo/logo.png" alt="爱发电" width="32">给我发电
-  </a>
+  👉<a href="https://399520.xyz/a399">
+    <img src="https://static.afdiancdn.com/static/img/logo/logo.png" alt="爱发电" width="32">
+  </a>给我赞助
 </p>
 
 <div align="center">
