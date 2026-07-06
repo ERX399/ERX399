@@ -7,17 +7,6 @@
   </a>
 </p>
 
-<!-- Stats -->
-<!-- <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ERX399&hide_title=false&hide_rank=true&show_icons=true&theme=aura&include_all_commits=true&count_private=true&disable_animations=false&locale=en&hide_border=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=ERX399&hide_title=false&hide_rank=true&show_icons=true&theme=catppuccin_latte&include_all_commits=true&count_private=true&disable_animations=false&locale=en&hide_border=true" />
-    <img alt="github-stats" src="https://github-readme-stats.vercel.app/api?username=ERX399&hide_title=false&hide_rank=true&show_icons=true&theme=catppuccin_latte&include_all_commits=true&count_private=true&disable_animations=false&locale=en&hide_border=true" width="35%" />
-  </picture>
-</div> -->
-
-<!-- Streak Stats -->
-
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=ERX399&locale=en&mode=daily&theme=aura&hide_border=true&border_radius=5" />
@@ -26,7 +15,6 @@
   </picture>
 </div>
 
-<!-- Snake -->
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ERX399/ERX399/blob/output/github-snake-dark.svg" />
