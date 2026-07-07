@@ -1,5 +1,5 @@
-<h1 align="center">你好 👋，我是 ERX399</h1>
-<h3 align="center">👨‍💻 写代码，喝咖啡，再写代码</h3>
+<h1 align="center">你好!我是 咡如夏(ERX399)</h1>
+<h3 align="center">写代码，喝咖啡，再写</h3>
 
 <p align="center">
   👉<a href="https://399520.xyz/a399">
