@@ -2,7 +2,7 @@ name: Generate snake animation
 
 on:
   schedule:
-    - cron: "*/30 * * * *" # run daily at mignight UTC
+    - cron: "*/10 * * * *" # run every 10 minutes
 
   workflow_dispatch:
 
