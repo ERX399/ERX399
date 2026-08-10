@@ -1,3 +1,9 @@
+<div align="center">
+
+![:name](https://count.getloli.com/@ERX399?name=ERX399&theme=minecraft&padding=6&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
+
+</div>
+
 <h1 align="center">你好!我是 咡如夏(ERX399)</h1>
 <h3 align="center">写代码，喝咖啡，再写</h3>
 
