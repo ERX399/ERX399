@@ -9,7 +9,7 @@
 
 <p align="center">
   👉<a href="https://399520.xyz/a399">
-    <img src="https://static.afdiancdn.com/static/img/logo/logo.png" alt="爱发电" width="32">
+    <img src="assets/afdian.png" alt="爱发电" width="32">
   </a>给我赞助
 </p>
 
@@ -25,6 +25,6 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ERX399/ERX399/blob/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/ERX399/ERX399/blob/output/github-snake.svg" />
-    <img alt="GitHub 贡献图贪吃蛇" src="github-snake.svg" width="95%" />
+    <img alt="GitHub 贡献图贪吃蛇" src="https://github.com/ERX399/ERX399/raw/output/github-snake.svg" width="95%" />
   </picture>
 </div>
