@@ -4,7 +4,7 @@
 
 </div>
 
-<h1 align="center">你好!我是 咡如夏(ERX399)</h1>
+<h1 align="center">你好!我是 夏之(ERX399)</h1>
 <h3 align="center">写代码，喝咖啡，再写</h3>
 
 <p align="center">
